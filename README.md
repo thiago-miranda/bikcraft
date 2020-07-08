@@ -1,2 +1,2 @@
 # bikcraft
-thiago-miranda.github.io/bikcraft/
+# thiago-miranda.github.io/bikcraft/
